@@ -1,12 +1,23 @@
 ### Hi there 👋 my name is Rafael
 ## Here's something about me and my github
-<div>
+
+<p align="center">
   <a href="https://github.com/RafaelCRC">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaelCRC&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCRC&layout=compact&langs_count=7&theme=onedark"/>
-</div> <br>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelCRC&theme=transparent" />
+  </a>
+  <a href="https://github.com/RafaelCRC">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelCRC&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/RafaelCRC">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelCRC&theme=transparent" />
+  </a>
+</p>
 
-
+<p align="center">
+  <a href="https://github.com/RafaelCRC">
+    <img src="https://komarev.com/ghpvc/?username=RafaelCRC&color=blue&style=flat)" />
+  </a>
+</p>
 
 <!--
 **RafaelCRC/RafaelCRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
